@@ -1,0 +1,18 @@
+What is Qlikview?
+Exploring data with QlikView
+Technology and components
+Preparing the workspace
+creating an app
+Data Sources
+Data Modelling
+Design requirements, The Document Properties window , The Sheet Properties dialog, Setting the object properties
+How to Build Dashboards - User Types, DAR Principle, Creating the Analysis sheet,Creating the new Dashboard sheet ,Creating the Reports sheet etc
+How to Script - script statements, conditional functions, Dealing with different data types, Debugging script, Standardizing and organizing script,Re-using scripts,Managing file locations and connection strings
+
+Data Modeling Best Practices - Data consistency, Reducing storage requirement, Design challenges of data modeling ,The master calendar
+Basic Data Transformation - Changing the source table structure (Cleansing" a dirty table. Loading a Crosstable,Expanding a hierarchy , Generic load 
+Advanced Expressions - Using variables, Using the TOTAL qualifier, The Aggr function, Conditional functions etc
+Set Analysis - Set analysis, Point In Time Reporting, Alternate state
+Advanced Data Transformation - Data architecture,Loading data already stored in QlikView, Aggregating data , Sorting tables, The Peek function,Merging forces, Dealing with slowly changing dimensions, Ordering, peeking, and matching all at once, Incremental loads etc.
+Creating a consistent QlikView UI, Additional interactivity
+Security- Hidden script,Section access, Document-level security, Sheet-level security.
